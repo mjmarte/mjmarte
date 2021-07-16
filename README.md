@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mjmarte
+- 👋 Hi, I’m Manuel Jose Marte.
 - 👀 I’m interested in bilingualism, aphasia, and neuroimaging.
-- 📫 How to reach me: mjmarte@bu.edu; [@manueljmarte](https://twitter.com/manueljmarte)
+- 📫 How to reach me: mjmarte@bu.edu; [@manueljmarte](https://twitter.com/manueljmarte).
 
 <!---
 mjmarte/mjmarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
