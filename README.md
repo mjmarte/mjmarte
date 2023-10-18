@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Manuel Jose Marte. I'm a PhD student at Boston University.
-- 👀 I’m interested in bilingualism, aphasia, and neuroimaging.
+- 👋 Hi, I’m Manuel Jose Marte. I'm a PhD candidate at Boston University.
+- 👀 I’m interested in bilingualism, aphasia, machine learning, and neuroimaging.
 - 📫 How to reach me: mjmarte@bu.edu; [@manueljmarte](https://twitter.com/manueljmarte).
 
 <!---
